@@ -1,4 +1,4 @@
-# Redwood Chat
+# Redwood Chat 🌲
 
 Redwood Chat is an experimental new chat system, intended to be an open source
 alternative to Discord, built on top of MLS (Messaging Layer Security, used for
